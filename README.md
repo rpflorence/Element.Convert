@@ -3,7 +3,7 @@ Element.Convert
 
 Element.Convert extends the Element native object to include the _convert_ method to convert an element to another type.
 
-### Example
+### Example 
 
     $('my_input').convert('textarea',['value','class'])
     
